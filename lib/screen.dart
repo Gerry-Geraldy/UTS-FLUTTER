@@ -3,14 +3,14 @@ import 'dart:html';
 import 'package:flutter/material.dart';
 
 
-class baru extends StatefulWidget {
-  const baru({Key? key}) : super(key: key);
+class aplikasi extends StatefulWidget {
+  const aplikasi({Key? key}) : super(key: key);
 
   @override
-  State<baru> createState() => _baruState();
+  State<aplikasi> createState() => _baruState();
 }
 
-class _baruState extends State<baru> {
+class _baruState extends State<aplikasi> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
